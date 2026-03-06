@@ -2,7 +2,8 @@
     "name": "Candyland Carnival",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Candyland Carnival": "github:ykbro/candyland-carnival#c1acb53048cba1ae32b1311e94c580763935ec97"
     },
     "files": [
         "main.blocks",
